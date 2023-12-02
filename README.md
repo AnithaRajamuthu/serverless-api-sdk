@@ -1,4 +1,4 @@
-# Simple REST API Code with GET & POST ITEMS
+# Simple AWS LAMBDA - REST API Code with GET & POST ITEMS
 
 LOOM Recording Link : https://www.loom.com/share/ef63f890e5dd4f0396f167796172bfd3
 This project contains source code and supporting files for the serverless application that you created in the AWS Lambda console. You can update your application at any time by committing and pushing changes to your AWS CodeCommit or GitHub repository.
